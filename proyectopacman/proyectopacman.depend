@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1496983977 source:e:\c progra\proyectopacman\main.cpp
+	"Juego.h"
+
+1496977439 source:e:\c progra\proyectopacman\src\constantes.cpp
+	"constantes.h"
+
+1496997733 e:\c progra\proyectopacman\include\constantes.h
+	<windows.h>
+
+1497007308 source:e:\c progra\proyectopacman\src\juego.cpp
+	"Juego.h"
+	<windows.h>
+	"constantes.h"
+	<iostream>
+	"atributosConsola.h"
+	"pacman.h"
+	"bolita.h"
+
+1497006153 e:\c progra\proyectopacman\include\juego.h
+	"constantes.h"
+	"pacman.h"
+	"bolita.h"
+
+1496983977 source:e:\c progra\proyectopacman\src\atributosconsola.cpp
+	<Windows.h>
+	"constantes.h"
+
+1496982255 e:\c progra\proyectopacman\include\atributosconsola.h
+
+1497001741 source:e:\c progra\proyectopacman\src\pacman.cpp
+	"pacman.h"
+	<iostream>
+	<windows.h>
+	"constantes.h"
+	"Juego.h"
+	"pacman.h"
+	"atributosConsola.h"
+	<conio.h>
+	<iomanip>
+
+1496996532 e:\c progra\proyectopacman\include\pacman.h
+	"Juego.h"
+
+1497004045 source:e:\c progra\proyectopacman\src\bolita.cpp
+	"bolita.h"
+	<iostream>
+	"Juego.h"
+	"atributosConsola.h"
+
+1497004078 e:\c progra\proyectopacman\include\bolita.h
+
+1496983978 source:c:\users\alumno-g\desktop\proyectopacman\main.cpp
+	"Juego.h"
+
+1497026564 c:\users\alumno-g\desktop\proyectopacman\include\juego.h
+	"constantes.h"
+	"pacman.h"
+	"bolita.h"
+
+1497030024 c:\users\alumno-g\desktop\proyectopacman\include\constantes.h
+	<windows.h>
+
+1496996534 c:\users\alumno-g\desktop\proyectopacman\include\pacman.h
+	"Juego.h"
+
+1497004080 c:\users\alumno-g\desktop\proyectopacman\include\bolita.h
+
+1497028652 source:c:\users\alumno-g\desktop\proyectopacman\src\atributosconsola.cpp
+	<Windows.h>
+	"constantes.h"
+
+1497004046 source:c:\users\alumno-g\desktop\proyectopacman\src\bolita.cpp
+	"bolita.h"
+	<iostream>
+	"Juego.h"
+	"atributosConsola.h"
+
+1496982256 c:\users\alumno-g\desktop\proyectopacman\include\atributosconsola.h
+
+1496977440 source:c:\users\alumno-g\desktop\proyectopacman\src\constantes.cpp
+	"constantes.h"
+
+1497029871 source:c:\users\alumno-g\desktop\proyectopacman\src\juego.cpp
+	"Juego.h"
+	<windows.h>
+	"constantes.h"
+	<iostream>
+	"atributosConsola.h"
+	"pacman.h"
+	"bolita.h"
+
+1497029871 source:c:\users\alumno-g\desktop\proyectopacman\src\pacman.cpp
+	"pacman.h"
+	<iostream>
+	<windows.h>
+	"constantes.h"
+	"Juego.h"
+	"pacman.h"
+	"atributosConsola.h"
+	<conio.h>
+	<iomanip>
+
+1496983978 source:d:\proyectopacman\main.cpp
+	"Juego.h"
+
+1497026564 d:\proyectopacman\include\juego.h
+	"constantes.h"
+	"pacman.h"
+	"bolita.h"
+
+1497030024 d:\proyectopacman\include\constantes.h
+	<windows.h>
+
+1496996534 d:\proyectopacman\include\pacman.h
+	"Juego.h"
+
+1497004080 d:\proyectopacman\include\bolita.h
+
+1497028652 source:d:\proyectopacman\src\atributosconsola.cpp
+	<Windows.h>
+	"constantes.h"
+
+1497004046 source:d:\proyectopacman\src\bolita.cpp
+	"bolita.h"
+	<iostream>
+	"Juego.h"
+	"atributosConsola.h"
+
+1496982256 d:\proyectopacman\include\atributosconsola.h
+
+1496977440 source:d:\proyectopacman\src\constantes.cpp
+	"constantes.h"
+
+1497029871 source:d:\proyectopacman\src\juego.cpp
+	"Juego.h"
+	<windows.h>
+	"constantes.h"
+	<iostream>
+	"atributosConsola.h"
+	"pacman.h"
+	"bolita.h"
+
+1497029871 source:d:\proyectopacman\src\pacman.cpp
+	"pacman.h"
+	<iostream>
+	<windows.h>
+	"constantes.h"
+	"Juego.h"
+	"pacman.h"
+	"atributosConsola.h"
+	<conio.h>
+	<iomanip>
+
