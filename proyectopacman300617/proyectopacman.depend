@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1496983977 source:e:\c progra\proyectopacman\main.cpp
+	"Juego.h"
+
+1496977439 source:e:\c progra\proyectopacman\src\constantes.cpp
+	"constantes.h"
+
+1496997733 e:\c progra\proyectopacman\include\constantes.h
+	<windows.h>
+
+1497007308 source:e:\c progra\proyectopacman\src\juego.cpp
+	"Juego.h"
+	<windows.h>
+	"constantes.h"
+	<iostream>
+	"atributosConsola.h"
+	"pacman.h"
+	"bolita.h"
+
+1497006153 e:\c progra\proyectopacman\include\juego.h
+	"constantes.h"
+	"pacman.h"
+	"bolita.h"
+
+1496983977 source:e:\c progra\proyectopacman\src\atributosconsola.cpp
+	<Windows.h>
+	"constantes.h"
+
+1496982255 e:\c progra\proyectopacman\include\atributosconsola.h
+
+1497001741 source:e:\c progra\proyectopacman\src\pacman.cpp
+	"pacman.h"
+	<iostream>
+	<windows.h>
+	"constantes.h"
+	"Juego.h"
+	"pacman.h"
+	"atributosConsola.h"
+	<conio.h>
+	<iomanip>
+
+1496996532 e:\c progra\proyectopacman\include\pacman.h
+	"Juego.h"
+
+1497004045 source:e:\c progra\proyectopacman\src\bolita.cpp
+	"bolita.h"
+	<iostream>
+	"Juego.h"
+	"atributosConsola.h"
+
+1497004078 e:\c progra\proyectopacman\include\bolita.h
+
+1496983978 source:c:\users\diegodavid\desktop\proyectopacman2\main.cpp
+	"Juego.h"
+
+1498814793 c:\users\diegodavid\desktop\proyectopacman2\include\juego.h
+	"constantes.h"
+	"pacman.h"
+	"bolita.h"
+	"fantasma.h"
+
+1498814743 c:\users\diegodavid\desktop\proyectopacman2\include\constantes.h
+	<windows.h>
+
+1498815353 c:\users\diegodavid\desktop\proyectopacman2\include\pacman.h
+	"Juego.h"
+
+1497004080 c:\users\diegodavid\desktop\proyectopacman2\include\bolita.h
+
+1496983978 source:c:\users\diegodavid\desktop\proyectopacman2\src\atributosconsola.cpp
+	<Windows.h>
+	"constantes.h"
+
+1497004046 source:c:\users\diegodavid\desktop\proyectopacman2\src\bolita.cpp
+	"bolita.h"
+	<iostream>
+	"Juego.h"
+	"atributosConsola.h"
+
+1496982256 c:\users\diegodavid\desktop\proyectopacman2\include\atributosconsola.h
+
+1496977440 source:c:\users\diegodavid\desktop\proyectopacman2\src\constantes.cpp
+	"constantes.h"
+
+1498815713 source:c:\users\diegodavid\desktop\proyectopacman2\src\juego.cpp
+	"Juego.h"
+	<windows.h>
+	"fantasma.h"
+	"constantes.h"
+	<iostream>
+	"atributosConsola.h"
+	"pacman.h"
+	"bolita.h"
+
+1498818443 source:c:\users\diegodavid\desktop\proyectopacman2\src\pacman.cpp
+	<iostream>
+	<windows.h>
+	"constantes.h"
+	"Juego.h"
+	"pacman.h"
+	"atributosConsola.h"
+	<conio.h>
+	<iomanip>
+	<math.h>
+
+1498815519 c:\users\diegodavid\desktop\proyectopacman2\include\fantasma.h
+
+1498820609 source:c:\users\diegodavid\desktop\proyectopacman2\src\fantasma.cpp
+	"fantasma.h"
+	<iostream>
+	"constantes.h"
+	"Juego.h"
+	"atributosConsola.h"
+
